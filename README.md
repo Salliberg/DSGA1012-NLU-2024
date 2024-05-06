@@ -7,5 +7,6 @@ Input/ Output / Target/ Score calculation
 ### Baseline BART
 
 ### Choose one augmentation 
-Model-based : 
-Rule-based :
+- Model-based : Paraphrased Augmentation
+
+- Rule-based : Mixup Augmentation
